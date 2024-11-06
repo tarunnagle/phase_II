@@ -32,12 +32,19 @@ ese 4 super conductor magnets ko 1 unit me align kiya jata hai aur trains k dono
 
 Inn trains ko propel krne ke liye propelling coil ka use kiya jata hai jisme alternating tarike se power supply kkiya jata hai aur inn propelling coils ko guideway ke andar place kiya jata hai 
 train ko aage badhaane k liye, propelling coil me superconductive magnets ke opposite magnetic force generate kiya jata hai jiske net force se train ka movement hota hai
-jaise hi train aage badhti hai to propelling coil ki polarity switch kr di jati hai jisse train ki speed ek direction me badhti jaati hai aur train ki speed ko switching frequency ko control krke ki ja sakti h
+jaise hi train aage badhti hai to propelling coil ki polarity switch kr di jati hai jisse train ki speed ek direction me badhti jaati hai aur train ki speed ko switching frequency ko control krke ki 
+ja sakti h
 
 MAGLEV trains ke liye dusra challenge lavitatation hai jise engineers ne faraday's k law ki help se achieve kiya hai, Inn super conductor magnets ka pair ek single unit MAGNET ki tarah behave krta hai 
 Engineers ne guideway me 8 shaped coils ko install kiya hai, jab train propell krti hai super conducting magnets in 8 shaped coils me EMF induce hota hai aur train k propel hone se ek net upward force 
-generate hota hai jisse train me levitation achieve hota hai 
+generate hota hai jisse train me levitation achieve hota hai train ki speed jitni hogi utna hi levitation achieve hoga, ye levivation khadi train me kaam nahi karta hai isliye inn trains ki low speed me 
+normal wheels ka use kiya jata hai 
 
+-----------
+iss train ka next challenge guidance hai aur iss train ko guideway se takraye bina chalna chahiye iss challenge ko overcome krne k liye engineers ne 8 shaped coils ko interconnect kr diya hai,
+
+jab train guideway k centre m hoti hai to train k dono taraf guideway me induced EMF equal hota hai, agr train guideway ki taraf jaane ki koshish krti hai to super conductors in 8 shaped coil me EMF 
+difference generate krte hai aur train pr lateral net magnetic force produce hota hai jo train ko guideway k center me laata hai jisse ye maglev train high speed me bhi safe ban jaati hai
 
 Maglev trains high speed up to 600KMPH tk achieve kr skti hai jo ki tradiotionally use hone waali trains se bht jyada hai inn trains e magnects ke use hone se magnetic 
 cushion generate hota hai jisse riding experience bht jyada badh jata hai inn trains me kam moving parts hote hai jisse maintenance bhi kam hota hai aur inki effieciency bht jyada hoti h
