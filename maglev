@@ -1,33 +1,46 @@
 Kya aapko pata hai duniya ki sbse tezz chalne waali train wheels pr nahi hawa me chalti hai aur iss train ki maximum speed 603 KMPH hai jo ki world's highest train speed record hai 
 
-Hello Dosto, aaj ki iss video me hum, japan ki MAGLEV train ke baare me jaanenge jo ki railway tracks se 10 centimeter jo ki 4 inch k lagbhag hota hai lavitate krti hai iss levitation ki wajah se hi ye train technology itna high speed achieve krne me successful ho paayi hai 
+Hello Dosto, aaj ki iss video me hum, japan ki MAGLEV train ke baare me jaanenge jo ki railway tracks se 10 centimeter jo ki 4 inch k lagbhag hota hai lavitate krti hai iss levitation ki wajah 
+se hi ye train technology itna high speed achieve krne me successful ho paayi hai 
 
-Early Development: The concept of magnetic levitation was first proposed in the early 20th century. British engineer Eric Laithwaite developed the first full-size working model of a linear induction motor in the 1940s1.
-Modern Advances: Significant advancements in materials and technology have made modern maglev trains possible. Research and development continue to improve their efficiency and reduce costs1.
+Iss trains ka development pehli bar 20 century me propose kiya gaya tha aur time ke saath saath technical advancement ne inn trains ko possible bnaya hai aur iss par research ki ja rahi hai jisse inn 
+technology ko aur bhi advance aur efficient banaya ja sake.
 
-MAGLEV ka full form Magnatic levitation hai ki train ko track ke upper float krne k liye allow krta hai aur ye normal trains ke comparisons me completely different technology hai to tracks aur wheelset k relative motion se chalti hai
+MAGLEV ka full form Magnatic levitation hai ki train ko track ke upper float krne k liye allow krta hai aur ye normal trains ke comparisons me completely different technology hai to tracks aur 
+wheelset k relative motion se chalti hai inn trains ka successful trial japan ne 1972 me kiya tha
 
-jaisa ki aap sab ko pata hai ki bhi magnet me opposite poles ek dusre ko apni taraf attract krte hai aur similar poles ek dusre ko repel krte hai, magnet ki isi property ka application ye modern MAGLEV trains hai 
+Japan me MAGLEV trains me Super COnducting Magnets ka use kiya jata hai isliye inhe SCMaglev kehta hai 
 
-agar aap do magnets ko pass me laayege to magnets ek dusre k pass aane ki koshish krege ya duur jaane ki, ye completely magnets k poles pe depend krta hai 
+iss train k magnets ek bar exciting current se charge hone par ye magnets bht strong magnetic field generate karte hai 
 
-agar hum iss magnets k similar poles ki bich k distance ko maintain ya control kr paaye to huum ek magnetic levitation ko achieve kr skte hai jo ki maglev trains ka principle hai 
+inn magnetic leviatated trains ko functional krne k liye mainly  three challenges achieve krne padhte hai 1. PROPEL 2. LAVITATE 3. GUIDANCE 
 
-static magnets se ye application possible nahi hai iski jagah electro magnets ka use kiya jata hai jo ki electric current ki frequency aur magnitude se generate hoti hai aur isse generated electro magnet ko control kiya ja skta hai
+inn trains ka principle magnets ki polar properties par completely depend krta hai, jab hum magnets k similar poles ko pass laate hai to magnets ek repulsive force form krte hai aur 
+agar hum opposite poles ko pass laaye to magnets attractive force generate krte hai aur ek dusre se chipak jaate hai aur isi magnet property ka application ye MAGLEV trains hai
 
-trains me MAGNATIC LAVITATION achive krne k mainly do tarike hai, 1 Electromagnetic Suspension ya (EMS) : ye method me electromagnets ko trains me place kiya jata hai jo ek attactive force generate krte hai aur train ko lagbhag 1.03 CM ya 0.5 inches tak tracks ya guideway se lift kiya jata hai 
+Agar inn magnets ka temparature kam se kam kr diya jaye to magnets ka material kam se kam electrical resistance offer krega jisme current flow krne par bht strong magnetic force generate hoga 
+aur kamk se kam losses honge, inn trains k super conducting magnets ko sirf ek bar excite krne ki jrurt hoti hai uske bad ye bht time tak kaam kr skte hai, lekin inhe kam se kam temperature par maintain
+krna hota hai jiske liye liquid helium refrigeratation system ka use kiya jata hai 
 
-2. Electrodynaic Suspension EDS : ye method me Superconducting magnets ko trains aur guideway me install kiya jata hai jo ek repulsive force generate krte hai jiska use krke Japanese SCMaglev train ko innovate kiya gaya hai jo ki train ko ek magnetic cushion provide krte hai 
+SCMaglev trains ke superconducting magnet me Niobium-Titanium (Nb-Ti) alloy hota hai jiska critical temperature −263.95°𝐶 ya 9.2 K ke barabar hota hai, iss temperature ko maintain krne k liye liquid 
+helium ko −268.95°𝐶 ya 4.2 K per in magnet pr circulate kiya jata hai.
 
-iss magnetic levitaion technology me mechanical contact nahi hota hai jisse friction nahi hota hai aur maximum speed aur smooth ride experience acheive kiya jata hai 
+conductive radiation se bachne k liye inn super conductive magnets ko radiation shield me rkha jata hai jisme complete vaccumm hota hai 
+aur iss radiation shield ko liquid nitrogen se kam temperature ko maintain kiya jata hai 
 
-ye electromagnatic lavitating technology high speed train transportation me revolution laane ka potential rkhti hai 
+ese 4 super conductor magnets ko 1 unit me align kiya jata hai aur trains k dono taraf sets me lgaya jata hai aur ye magnets bina electricity ke kaamm krte hai 
 
-Maglev trains high speed up to 600KMPH tk achieve kr skti hai jo ki tradiotionally use hone waali trains se bht jyada hai inn trains e magnects ke use hone se magnetic cushion generate hota hai jisse riding experience bht jyada badh jata hai inn trains me kam moving parts hote hai jisse maintenance bhi kam hota hai aur inki effieciency bht jyada hoti h
+Inn trains ko propel krne ke liye propelling coil ka use kiya jata hai jisme alternating tarike se power supply kkiya jata hai aur inn propelling coils ko guideway ke andar place kiya jata hai 
+train ko aage badhaane k liye, propelling coil me superconductive magnets ke opposite magnetic force generate kiya jata hai jiske net force se train ka movement hota hai
+jaise hi train aage badhti hai to propelling coil ki polarity switch kr di jati hai jisse train ki speed ek direction me badhti jaati hai aur train ki speed ko switching frequency ko control krke ki ja sakti h
+
+MAGLEV trains ke liye dusra challenge lavitatation hai jise engineers ne faraday's k law ki help se achieve kiya hai, Inn super conductor magnets ka pair ek single unit MAGNET ki tarah behave krta hai 
+Engineers ne guideway me 8 shaped coils ko install kiya hai, jab train propell krti hai super conducting magnets in 8 shaped coils me EMF induce hota hai aur train k propel hone se ek net upward force 
+generate hota hai jisse train me levitation achieve hota hai 
 
 
-iss khubiyo k alava inn trains k kuchh nuksaan bhi hai inhe banane ki cots bht jyada hai aur inkn trains ke liye separately infrastructure bnana pdta hai isske saath saath inn trains ko operate krneme bht jyada energy consumption hota hai 
+Maglev trains high speed up to 600KMPH tk achieve kr skti hai jo ki tradiotionally use hone waali trains se bht jyada hai inn trains e magnects ke use hone se magnetic 
+cushion generate hota hai jisse riding experience bht jyada badh jata hai inn trains me kam moving parts hote hai jisse maintenance bhi kam hota hai aur inki effieciency bht jyada hoti h
 
-Early Research: Research on superconducting maglev technology began in the 1960s, with the first successful test run in 19721.
-Yamanashi Test Track: Extensive testing has been conducted on the Yamanashi Maglev Test Line, which has been crucial in refining the technology1.
-Chūō Shinkansen: The SCMaglev will be used in the Chūō Shinkansen line, currently under construction, which will connect Tokyo and Nagoya by 2027, and eventually extend to Osaka1.
+iss khubiyo k alava inn trains k kuchh nuksaan bhi hai inhe banane ki cots bht jyada hai aur inkn trains ke liye separately infrastructure bnana 
+pdta hai isske saath saath inn trains ko operate krneme bht jyada energy consumption hota hai 
